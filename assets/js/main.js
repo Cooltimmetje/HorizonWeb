@@ -42,7 +42,7 @@
 							'http://i.imgur.com/m74Ag88.png': 'center',
 							'http://i.imgur.com/RKTacoh.png': 'center',
 							'http://i.imgur.com/pn5EOni.png': 'center',
-							'http://i.imgur.com/8z9TSW9.jpg': 'center'
+							'http://i.imgur.com/jmgmI53.png': 'center'
 						},
 
 					// Delay.
