@@ -41,7 +41,8 @@
 						images: {
 							'http://i.imgur.com/m74Ag88.png': 'center',
 							'http://i.imgur.com/RKTacoh.png': 'center',
-							'http://i.imgur.com/pn5EOni.png': 'center'
+							'http://i.imgur.com/pn5EOni.png': 'center',
+							'http://i.imgur.com/Dt1dyEV.jpg': 'center'
 						},
 
 					// Delay.
