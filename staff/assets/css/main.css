@@ -2378,8 +2378,12 @@
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
+		background: rgba(43, 37, 44, 0);
 		color: #fff;
+		background-image: url("../../images/header.jpg");
+		background-size: cover;
+		background-position: center center;
+		background-attachment: fixed;
 	}
 
 		#footer .icon.circled {
