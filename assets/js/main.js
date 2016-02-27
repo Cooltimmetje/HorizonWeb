@@ -42,7 +42,14 @@
 							'http://i.imgur.com/m74Ag88.png': 'center',
 							'http://i.imgur.com/RKTacoh.png': 'center',
 							'http://i.imgur.com/pn5EOni.png': 'center',
-							'http://i.imgur.com/jmgmI53.png': 'center'
+							'http://i.imgur.com/jmgmI53.png': 'center',
+							'http://i.imgur.com/q5NUopT.png': 'center',
+							'http://i.imgur.com/sroJldz.png': 'center',
+							'http://i.imgur.com/oe0MN4B.png': 'center',
+							'http://i.imgur.com/Tyz4QAZ.png': 'center',
+							'http://i.imgur.com/zS4yUp6.png': 'center',
+							'http://i.imgur.com/NZ6Yfcp.png': 'center',
+							'http://i.imgur.com/qlNBhq7.png': 'center'
 						},
 
 					// Delay.
