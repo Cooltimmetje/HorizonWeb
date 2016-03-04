@@ -49,7 +49,10 @@
 							'http://i.imgur.com/Tyz4QAZ.png': 'center',
 							'http://i.imgur.com/zS4yUp6.png': 'center',
 							'http://i.imgur.com/NZ6Yfcp.png': 'center',
-							'http://i.imgur.com/qlNBhq7.png': 'center'
+							'http://i.imgur.com/qlNBhq7.png': 'center',
+							'http://i.imgur.com/XK5ouvj.jpg': 'center',
+							'http://i.imgur.com/LfGG1Oy.jpg': 'center',
+							'http://i.imgur.com/3CwDqV0.jpg': 'center'
 						},
 
 					// Delay.
